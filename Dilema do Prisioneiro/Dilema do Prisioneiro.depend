@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566393808 source:c:\users\satunino\desktop\dilemadoprisioneiro\dilema do prisioneiro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
